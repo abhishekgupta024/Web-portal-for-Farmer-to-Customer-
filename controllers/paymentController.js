@@ -28,9 +28,9 @@ const createOrder = async(req,res)=>{
                         key_id:RAZORPAY_ID_KEY,
                         
                         
-                        contact:"8234872674",
+                        contact:"Mobile No.",
                         name: "Abhishek Gupta  ",
-                        email: "abhishek.agrawal.garg@gmail.com"
+                        email: "email"
                     });
                 }
                 else{
